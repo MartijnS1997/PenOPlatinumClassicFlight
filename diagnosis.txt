@@ -1,0 +1,7 @@
+############## Wing Diagnosis Space ##############
+
+No diagnosis was found, was the angle of attack valid?5 last Positions: []
+5 last Velocities: []
+5 last Orientations: []
+5 last Rotations: []
+5 last controls: []
